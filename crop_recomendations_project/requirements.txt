@@ -1,0 +1,3 @@
+Flask==2.0.3
+numpy   # Remove version constraint to install the best compatible version
+scikit-learn==0.24.2
